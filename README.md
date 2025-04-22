@@ -1,7 +1,6 @@
-<!-- 顶部动态标题横幅 -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+ppxxxpppxxppx;AI+Agent+%E6%9E%84%E5%BB%BA%E8%80%85+%F0%9F%96%A5%EF%B8%8F;MCP+%E6%8F%92%E4%BB%B6%E7%A0%94%E7%A9%B6%E4%B8%AD+%F0%9F%94%8D;Java+%2F+LangChain4j+%2F+本地LLM+%2F+实习开发中" />
-</p>
+<h1 align="center">👋 Hi, I'm <code>ppxxxpppxxppx</code></h1>
+<p align="center">AI Agent 构建者 ｜ MCP 插件探索者 ｜ Java 实践者</p>
+
 
 ---
 
