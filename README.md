@@ -1,54 +1,93 @@
-# 👋 Hi, I'm ppxxxpppxxppx
+<!-- 顶部动态标题横幅 -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+ppxxxpppxxppx;AI+Agent+%E6%9E%84%E5%BB%BA%E8%80%85+%F0%9F%96%A5%EF%B8%8F;MCP+%E6%8F%92%E4%BB%B6%E7%A0%94%E7%A9%B6%E4%B8%AD+%F0%9F%94%8D;Java+%2F+LangChain4j+%2F+本地LLM+%2F+实习开发中" />
+</p>
 
-AI Agent 构建者 | MCP 插件探索者 | Java & Python 实践者
+---
+
+## 📌 目录
+- [🧠 关于我](#-关于我)
+- [🚧 项目精选](#-项目精选)
+- [🛠 技术栈](#-技术栈)
+- [📊 数据与动态](#-数据与动态)
+- [📫 联系方式](#-联系方式)
 
 ---
 
 ## 🧠 关于我
 
-- 🎯 热爱做工具型项目，追求让 AI 成为真正的效率助手
-- 🧩 正在开发多个基于 MCP 协议的插件（例如：奖项查询、课表抓取）
-- 🛠 技术方向：Java 后端 / LangChain4j / 本地 AI 模型 / Agent 框架
-- 📍 大三在读，正在实习 + 做项目 + 写插件
+- 🎯 热衷打造高效 AI 工具，追求“写一次，用十次”的代码哲学
+- 🧩 主攻 MCP 协议插件 / 本地大模型 Agent 架构
+- 🧠 熟悉 Spring Boot + LangChain4j + Redis 的实战组合
+- 🧪 大三在读｜实习中｜长期维护多个自研项目
 
 ---
 
-## 🚧 项目代表
+## 🚧 项目精选
 
-### 🧠 mcp-award-query
-基于 Java 的 MCP 插件，用于查询老师指导学生的奖项信息。
-- ✅ 自动解析教务网、大创平台等内容
-- ✅ 结构化输出，支持 AI Agent 消费
-- ✅ 自带缓存和速查接口
+### 🧠 `mcp-award-query`
+> Java | Jsoup | 教务网 + 大创平台解析  
+查询老师指导学生获奖记录的插件，结构化输出，支持 AI Agent 读取。
+- ✅ 免登录爬取页面
+- ✅ 数据缓存 + 去重逻辑
+- ✅ 多平台聚合搜索
 
-### 🗓️ school-timetable-agent
-基于 Python + Selenium 的课表爬虫
-- 自动登录学校教务系统，获取课程信息
-- 支持将课表推送到微信/日历
+---
 
-### 🤖 langchain4j-agent-base
-基于 LangChain4j 的本地模型 Agent 框架
-- 支持 Redis 上下文存储
-- 多模型适配（Ollama/DeepSeek）
-- 已支持流式回复与插件调用
+### 🗓️ `school-timetable-agent`
+> Python | Selenium | 微信推送  
+自动登录教务系统，抓取课表，格式统一，支持推送。
+- ✅ 可扩展推送通道（微信、邮件等）
+- ✅ 提供课表 JSON 接口供其他服务使用
+
+---
+
+### 🤖 `langchain4j-agent-base`
+> Java | LangChain4j | Redis  
+本地模型对话框架，支持多模型、多插件。
+- ✅ Ollama / DeepSeek 自动适配
+- ✅ 上下文记忆持久化
+- ✅ 插件式思维链触发器
 
 ---
 
 ## 🛠 技术栈
 
-- **语言**：Java, Python, JavaScript
-- **框架**：Spring Boot, LangChain4j, Vue,
-- **工具**：Redis, MongoDB, Docker, k8s
-- **方向**：LLM 本地调用，插件式 AI Agent 架构设计,前后端架构
+| 分类 | 技术 |
+|------|------|
+| 🧱 语言 | Java / Python / JavaScript |
+| 🔧 后端 | Spring Boot / LangChain4j / MyBatis-Plus |
+| 🎨 前端 | Vue3 / ElementPlus / VitePress |
+| ☁️ 工具 | Docker / Redis / MongoDB / GitHub Actions / k8s |
+| 🧠 AI方向 | LLM 本地部署 / Agent 架构 / 多模型集成 |
+
+---
+
+## 📊 数据与动态
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ppxxxpppxxppx&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ppxxxpppxxppx&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ppxxxpppxxppx&theme=github_dark" width="96%" />
+</p>
 
 ---
 
 ## 📫 联系方式
 
-- GitHub: [ppxxxpppxxppx](https://github.com/ppxxxpppxxppx)
-- Email: ppxxxpppxxppx@gmail.com
-
+- 🌐 GitHub: [ppxxxpppxxppx](https://github.com/ppxxxpppxxppx)
+- 📮 Email: ppxxxpppxxppx@gmail.com
+- 📺 B站（建设中）: [@ppx实验室](https://space.bilibili.com/你的ID)
 
 ---
 
 > 💡 “代码是思想的延伸，让机器替你思考，才是写代码的终极浪漫。”
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</div>
