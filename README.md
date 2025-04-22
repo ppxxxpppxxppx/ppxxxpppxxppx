@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <code>ppxxxpppxxppx</code></h1>
+<h1 align="center">👋 Hi, I'm <code>Yurki</code></h1>
 <p align="center">AI Agent 构建者 ｜ MCP 插件探索者 ｜ Java 实践者</p>
 
 
@@ -24,14 +24,7 @@
 
 ## 🚧 项目精选
 
-### 🧠 `mcp-award-query`
-> Java | Jsoup | 教务网 + 大创平台解析  
-查询老师指导学生获奖记录的插件，结构化输出，支持 AI Agent 读取。
-- ✅ 免登录爬取页面
-- ✅ 数据缓存 + 去重逻辑
-- ✅ 多平台聚合搜索
 
----
 
 ### 🗓️ `school-timetable-agent`
 > Python | Selenium | 微信推送  
@@ -79,7 +72,7 @@
 
 - 🌐 GitHub: [ppxxxpppxxppx](https://github.com/ppxxxpppxxppx)
 - 📮 Email: ppxxxpppxxppx@gmail.com
-- 📺 B站（建设中）: [@ppx实验室](https://space.bilibili.com/你的ID)
+
 
 ---
 
