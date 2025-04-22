@@ -37,17 +37,17 @@ AI Agent 构建者 | MCP 插件探索者 | Java & Python 实践者
 ## 🛠 技术栈
 
 - **语言**：Java, Python, JavaScript
-- **框架**：Spring Boot, LangChain4j, Vue
-- **工具**：Redis, MongoDB, Docker, GitHub Actions
-- **算法方向**：LLM 本地调用，插件式 AI Agent 架构设计
+- **框架**：Spring Boot, LangChain4j, Vue,
+- **工具**：Redis, MongoDB, Docker, k8s
+- **方向**：LLM 本地调用，插件式 AI Agent 架构设计,前后端架构
 
 ---
 
 ## 📫 联系方式
 
 - GitHub: [ppxxxpppxxppx](https://github.com/ppxxxpppxxppx)
-- Email: your@email.com
-- B站：[@ppx实验室](https://space.bilibili.com/你的ID)
+- Email: ppxxxpppxxppx@gmail.com
+
 
 ---
 
