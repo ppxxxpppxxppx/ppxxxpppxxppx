@@ -4,21 +4,38 @@
 
 ---
 
-## 📌 目录
-- [🧠 关于我](#-关于我)
-- [🚧 项目精选](#-项目精选)
-- [🛠 技术栈](#-技术栈)
-- [📊 数据与动态](#-数据与动态)
-- [📫 联系方式](#-联系方式)
+## 🗂️ 快速导航
+
+<p align="center">
+  <a href="#-关于我"><img src="https://img.shields.io/badge/-关于我-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="#-项目精选"><img src="https://img.shields.io/badge/-项目精选-181717?style=for-the-badge&logo=codefactor&logoColor=white"></a>
+  <a href="#-技术栈"><img src="https://img.shields.io/badge/-技术栈-181717?style=for-the-badge&logo=spring&logoColor=white"></a>
+  <a href="#-数据与动态"><img src="https://img.shields.io/badge/-数据与动态-181717?style=for-the-badge&logo=bar-chart&logoColor=white"></a>
+  <a href="#-联系方式"><img src="https://img.shields.io/badge/-联系方式-181717?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
-
 ## 🧠 关于我
 
-- 🎯 热衷打造高效 AI 工具，追求“写一次，用十次”的代码哲学
-- 🧩 主攻 MCP 协议插件 / 本地大模型 Agent 架构
-- 🧠 熟悉 Spring Boot + LangChain4j + Redis 的实战组合
-- 🧪 大三在读｜实习中｜长期维护多个自研项目
+<table>
+<tr>
+<td width="60%">
+  
+- 🎯 热衷打造高效 AI 工具，追求“写一次，用十次”的代码哲学  
+- 🧩 MCP 协议插件 / 本地模型 Agent 框架实战中  
+- ⚙️ 熟悉 Spring Boot + LangChain4j + Redis  
+- 🧪 大三在读｜实习开发｜长期维护多个自研项目  
+
+</td>
+<td width="40%" align="center">
+  
+<img src="https://cdn.jsdelivr.net/gh/ppxxxpppxxppx/assets@main/avatar.png" width="120" style="border-radius:50%" alt="avatar"/><br/>
+<sub><strong>ppxxxpppxxppx</strong></sub><br/>
+<span>写代码时想的都是怎么让 AI 帮我写下一次代码。</span>
+
+</td>
+</tr>
+</table>
 
 ---
 
