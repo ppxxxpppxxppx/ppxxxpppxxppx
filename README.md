@@ -1,61 +1,54 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2f,100:0f172a&height=160&section=header&text=Hi%2C%20I%27m%20ppxxxpppxxppx!&fontColor=ffffff&fontSize=40&fontAlignY=55" />
-</div>
+# 👋 Hi, I'm ppxxxpppxxppx
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=72A4F7&center=true&vCenter=true&width=600&lines=🚀+AI%2FMCP+插件开发者;🧠+代码即表达;📦+用技术解决信息冗余;🌱+未来Agent工具链探索中..." />
-</p>
+AI Agent 构建者 | MCP 插件探索者 | Java & Python 实践者
 
 ---
 
-## 🧠 About Me
+## 🧠 关于我
 
-- 🛠️ MCP 插件研究中：帮老师快速查奖项，不再人肉查网页
-- 💬 专攻：AI工具链 / Spring Boot / LangChain4j / 本地模型调用
-- 🔍 擅长让复杂的系统变得“有按钮点一下就能跑”
-- 🏗️ 正在构建：个人 AI Agent + 本地推理项目合集
-
----
-
-## 🧰 技术栈 / Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,vue,python,docker,redis,mysql,md,github" />
-</div>
+- 🎯 热爱做工具型项目，追求让 AI 成为真正的效率助手
+- 🧩 正在开发多个基于 MCP 协议的插件（例如：奖项查询、课表抓取）
+- 🛠 技术方向：Java 后端 / LangChain4j / 本地 AI 模型 / Agent 框架
+- 📍 大三在读，正在实习 + 做项目 + 写插件
 
 ---
 
-## 📈 GitHub 贡献状态
+## 🚧 项目代表
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ppxxxpppxxppx&show_icons=true&theme=github_dark&hide_border=true" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=ppxxxpppxxppx&theme=github-dark-blue&hide_border=true" />
-</div>
+### 🧠 mcp-award-query
+基于 Java 的 MCP 插件，用于查询老师指导学生的奖项信息。
+- ✅ 自动解析教务网、大创平台等内容
+- ✅ 结构化输出，支持 AI Agent 消费
+- ✅ 自带缓存和速查接口
 
----
+### 🗓️ school-timetable-agent
+基于 Python + Selenium 的课表爬虫
+- 自动登录学校教务系统，获取课程信息
+- 支持将课表推送到微信/日历
 
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="mailto:ppxxxpppxxppx@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/ppxxxpppxxppx"><img src="https://img.shields.io/badge/github-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://space.bilibili.com/桵棱"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white"/></a>
-  <a href="https://your-blog.com"><img src="https://img.shields.io/badge/blog-0f172a?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
-</p>
-
----
-
-## 🧩 项目精选
-
-| 项目 | 技术 | 简介 |
-|------|------|------|
-| 🧠 `mcp-award-query` | Java + MCP + Jsoup | 查询老师指导学生获奖记录，支持多平台适配 |
-| 📅 `schedule-agent` | Python + Selenium + OpenAI | 自动登录抓取课表并用 AI 提示冲突 |
-| 🤖 `langchain-local-agent` | Java + LangChain4j + Redis | 基于本地模型的 AI 对话系统，支持流式与记忆管理 |
+### 🤖 langchain4j-agent-base
+基于 LangChain4j 的本地模型 Agent 框架
+- 支持 Redis 上下文存储
+- 多模型适配（Ollama/DeepSeek）
+- 已支持流式回复与插件调用
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2f,100:0f172a&height=120&section=footer" />
-</div>
+## 🛠 技术栈
+
+- **语言**：Java, Python, JavaScript
+- **框架**：Spring Boot, LangChain4j, Vue
+- **工具**：Redis, MongoDB, Docker, GitHub Actions
+- **算法方向**：LLM 本地调用，插件式 AI Agent 架构设计
+
+---
+
+## 📫 联系方式
+
+- GitHub: [ppxxxpppxxppx](https://github.com/ppxxxpppxxppx)
+- Email: your@email.com
+- B站：[@ppx实验室](https://space.bilibili.com/你的ID)
+
+---
+
+> 💡 “代码是思想的延伸，让机器替你思考，才是写代码的终极浪漫。”
