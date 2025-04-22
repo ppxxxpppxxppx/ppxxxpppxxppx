@@ -12,7 +12,7 @@
 ## 🧠 About
 
 我是一个相信「系统应由 AI 调用」的开发者。  
-我正在做的事情，是让教务网、大创平台这些原本只能人点的网站，  
+我正在做的事情，是让这些原本只能人点的网站，  
 也能被 AI 实体理解、调用、读取、操作。  
 主攻方向：**MCP 插件 + 本地模型 + LangChain4j 封装**
 
@@ -62,3 +62,10 @@
 ---
 
 > 💬 “代码不是为了给人看的，而是为了 AI 能执行。”
+
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1EE1FF&height=120&section=footer"/>
+</p>
