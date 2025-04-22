@@ -1,10 +1,19 @@
+<!-- 顶部横幅（渐变风格 + 动态标题） -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1EE1FF&center=true&vCenter=true&width=800&lines=AI+Agent+Developer;MCP+Plugin+Architect;LangChain4j+Practitioner;Systems+built+to+be+used+by+AI" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1EE1FF,100:000000&height=180&section=header&text=Hi%2C%20I'm%20ppxxxpppxxppx!&fontSize=36&fontAlignY=40&fontColor=ffffff" />
 </p>
 
+<!-- 动态打字效果（加载稳） -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1EE1FF&center=true&vCenter=true&width=750&lines=AI+Agent+Builder+%F0%9F%A7%A0;MCP+Plugin+Developer+%E2%9A%99%EF%B8%8F;LangChain4j+%2B+本地模型%E2%9C%85;系统是给AI用的%2C+不是给人点的%E3%80%82" />
+</p>
 
 <h1 align="center">🧬 ppxxxpppxxppx</h1>
-<p align="center"><strong>Building tools not for people, but for AI to use.</strong></p>
+<p align="center">
+  <strong>AI 应用型系统构建者 ｜ 让传统平台为智能体服务</strong><br/>
+  <em>Building systems that can be understood and operated by AI, not humans.</em>
+</p>
+
 
 ---
 
